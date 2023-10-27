@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Bunge</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh1799&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh1799" /> </p>
 
@@ -20,10 +21,40 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikesh1799&show_icons=true&locale=en&layout=compact" alt="rushikesh1799" /></p>
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" />
+    <img src="https://img.icons8.com/fluency/48/000000/python.png" />
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" />
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+    <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" />
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" />
+    <img src="https://img.icons8.com/color/48/000000/redux.png" />
+    <img src="https://img.icons8.com/color/48/000000/chakra-ui.png" />
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" />
+    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" />
+    <img src="https://img.icons8.com/color/48/000000/git.png" />
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" />
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+    <img
+        src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" />
+    <img src="https://img.icons8.com/fluency/48/000000/node-js.png" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikesh1799&show_icons=true&locale=en" alt="rushikesh1799" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh1799&" alt="rushikesh1799" /></p>
+## Github Statistics
+<div>
+  <a href='https://github.com/rushikesh1799/github-readme-stats'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikesh1799&show_icons=true&locale=en&layout=compact" alt="rushikesh1799" height="200"></img>
+  </a>
+      
+  <a href='https://github.com/rushikesh1799/github-readme-stats'>
+    <img src="https://github-readme-stats.vercel.app/api?username=rushikesh1799&show_icons=true&locale=en" alt="rushikesh1799"></img>
+  </a>
+  
+  <a href='https://github.com/rushikesh1799/github-readme-stats'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh1799&" alt="rushikesh1799"></img>
+  </a>
+</div>
